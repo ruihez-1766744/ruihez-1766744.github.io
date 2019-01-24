@@ -5,17 +5,20 @@
     margin-bottom: 10px;
     border:solid 8px black;
     text-align: center;
+    background-color: #8E41D5;
 }
 h1{
     font-size: 60px;
     font-family: "passion One";
     color: #FFBC00;
     font-weight: bold;
+    background-color: #8E41D5;
 }
 
 p{    
     font-family: "Arial";
     color: white; 
+    background-color: #8E41D5;
 }
 
 #LeftNav{
@@ -24,11 +27,13 @@ p{
     border:solid 8px black;
     text-align: center;
     padding-bottom: 8px;
+    background-color: #8E41D5;
 }
 
 ul{
     list-style-type: none;
     padding-left: 0px;
+    background-color: #8E41D5;
 }
 
 #Content{
@@ -36,8 +41,10 @@ ul{
     border:solid 8px black;
     text-align: center;
     padding: 15x;
+    background-color: #8E41D5;
 }
 #Footer{
     border:solid 8px black;
     text-align: center;
+    background-color: #8E41D5;
 }
