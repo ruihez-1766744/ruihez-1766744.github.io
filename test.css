@@ -1,0 +1,43 @@
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    font-family: "passion One";
+    color: #FFBC00;
+    font-weight: bold;
+}
+
+p{    
+    font-family: "Arial";
+    color: white; 
+}
+
+#LeftNav{
+    float: left;
+    width: 400px;
+    border:solid 8px black;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Content{
+    width: 700px;
+    border:solid 8px black;
+    text-align: center;
+    padding: 15x;
+}
+#Footer{
+    border:solid 8px black;
+    text-align: center;
+}
